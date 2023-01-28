@@ -1,6 +1,4 @@
 // Simple C++ program to display "Hello World" 
-// Author: Jack Nishanian <jacknishanian@gmail.com>
-
 // Header file for input output functions 
 #include<iostream>  
   
